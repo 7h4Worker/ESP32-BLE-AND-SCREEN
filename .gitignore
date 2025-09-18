@@ -81,10 +81,6 @@ flash_project_args
 # ESP-IDF menuconfig backup
 sdkconfig.old
 
-# Component dependencies
-managed_components/
-dependencies.lock
-
 # IDF Python environment
 .espressif/
 

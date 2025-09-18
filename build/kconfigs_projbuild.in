@@ -1,6 +1,0 @@
-source "D:/software_devtools/esp_idf/Espressif/frameworks/esp-idf-v5.4.1/components/bootloader/Kconfig.projbuild"
-source "D:/software_devtools/esp_idf/Espressif/frameworks/esp-idf-v5.4.1/components/esp_app_format/Kconfig.projbuild"
-source "D:/software_devtools/esp_idf/Espressif/frameworks/esp-idf-v5.4.1/components/esp_rom/Kconfig.projbuild"
-source "D:/software_devtools/esp_idf/Espressif/frameworks/esp-idf-v5.4.1/components/esptool_py/Kconfig.projbuild"
-source "D:/software_devtools/esp_idf/Espressif/frameworks/esp-idf-v5.4.1/components/partition_table/Kconfig.projbuild"
-source "D:/ProjData/Proj_ESP32/gkxn_zy/ESP32-BLE-AND-SCREEN/main/Kconfig.projbuild"
