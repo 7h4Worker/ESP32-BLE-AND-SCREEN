@@ -1,5 +1,8 @@
-# 自动递归 main/ 下的所有 .c 文件
-file(GLOB_RECURSE MAIN_SOURCES *.c)
+# 使用最终优化版本
+set(MAIN_SOURCES 
+    gattc_demo_final.c
+    GenJyuuGothic_32.c
+)
 
 # LVGL demo 源文件目录（根据实际路径调整）
 set(LV_DEMO_DIR ../managed_components/lvgl__lvgl/demos)
